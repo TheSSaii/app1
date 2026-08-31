@@ -49,5 +49,5 @@ Si deseas clonar y probar este proyecto en tu entorno local, sigue estos pasos:
    npx expo start -c
 
 # Autor
-   TheSSaii
+   TheSSaii //
    Simón Morales arango
